@@ -1,0 +1,20 @@
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Administrator\Desktop\EC447\447hw\Lab4\Lab4\obj\Debug\Lab4.pdb

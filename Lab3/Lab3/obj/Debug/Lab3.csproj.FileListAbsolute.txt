@@ -1,0 +1,30 @@
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Chuwei Chen\Desktop\.NET Framework\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Chuwei Chen\Desktop\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Administrator\Desktop\EC447\447hw\Lab3\Lab3\obj\Debug\Lab3.pdb
